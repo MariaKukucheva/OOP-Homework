@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Football</id>
+    <version>1.0.0</version>
+    <authors>Football</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Maria\source\repos\Football\Football\bin\Debug\net6.0\Football.runtimeconfig.json" target="lib\net6.0\Football.runtimeconfig.json" />
+    <file src="C:\Users\Maria\source\repos\Football\Football\bin\Debug\net6.0\Football.dll" target="lib\net6.0\Football.dll" />
+  </files>
+</package>
